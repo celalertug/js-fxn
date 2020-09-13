@@ -2,6 +2,12 @@
 
 Makes a pipeline between functions.
 
+### install
+
+```bash
+yarn add js-fxn
+```
+
 ### pipe
 
 ```js
