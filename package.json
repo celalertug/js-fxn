@@ -1,0 +1,17 @@
+{
+  "name": "js-fxn",
+  "version": "0.0.1",
+  "private": false,
+  "license": "MIT",
+  "author": {
+    "email": "celalertug@gmail.com",
+    "name": "celal ertuğ",
+    "url": "github.com/celalertug"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
